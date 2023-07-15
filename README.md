@@ -2,4 +2,5 @@
 Coursera Project
 
 readme file updated
-author- Mohammed Zeeshan
+## Authors
+- [Mohammed Zeeshan](https://github.com/famezeeshan)
